@@ -1,0 +1,19 @@
+body {
+  
+}
+.title {
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+.submit-button {
+    margin-top: 20px;
+    background-color: green;
+    font-weight: bolder;
+}
+
+.report {
+    border-style: solid;
+    padding: 20px;
+    background-color: white;
+}
